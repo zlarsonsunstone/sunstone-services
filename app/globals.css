@@ -1,0 +1,221 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sunstone-orange: #f39200;
+  --sunstone-gray: #6d6e71;
+  --steptoe-maroon-light: #b71e3a;
+  --steptoe-maroon-dark: #7a1124;
+  --steptoe-gray: #f8f9fa;
+  --steptoe-dark: #1a1a1a;
+}
+
+@layer base {
+  * {
+    @apply border-gray-200;
+  }
+  body {
+    @apply bg-white text-gray-900;
+    font-family: var(--font-source-sans), -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-playfair), Georgia, 'Times New Roman', serif;
+    font-weight: 600;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  /* Increase minimum font sizes for readability - but NOT for hero/display text */
+  /* Target service cards, detail panels, and general body content */
+  .service-card p,
+  .service-card span:not(.text-3xl):not(.text-4xl):not(.text-5xl),
+  .detail-content p,
+  .detail-content li,
+  .detail-content span,
+  article p,
+  article li,
+  .content-section p,
+  .content-section li {
+    font-size: max(16px, 1rem) !important; /* Minimum 12pt equivalent */
+  }
+  
+  /* Improve readability of small text in cards and details */
+  .service-card .text-xs,
+  .detail-content .text-xs,
+  article .text-xs {
+    font-size: max(14px, 0.875rem) !important; /* ~10.5pt minimum */
+  }
+  
+  .service-card .text-sm,
+  .detail-content .text-sm,
+  article .text-sm,
+  .content-section .text-sm {
+    font-size: max(15px, 0.9375rem) !important; /* ~11.25pt minimum */
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--steptoe-maroon);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--steptoe-maroon-dark);
+}
+
+/* Animation for service cards */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--steptoe-maroon) 0%, var(--steptoe-maroon-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glass morphism effect */
+.glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Sunstone button styles */
+.btn-sunstone, .btn-steptoe {
+  @apply bg-[#f39200] hover:bg-[#d17d00] text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300 shadow-md hover:shadow-lg;
+  color: #ffffff !important;
+}
+
+.btn-sunstone-outline, .btn-steptoe-outline {
+  @apply border-2 border-[#f39200] text-[#f39200] hover:bg-[#f39200] hover:text-white font-semibold py-3 px-6 rounded-lg transition-all duration-300;
+}
+
+/* Force white text on image overlays - highest priority */
+.service-card .absolute h3,
+.service-card .absolute p,
+.service-card .z-10 h3,
+.service-card .z-10 p {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Service card text styling */
+.service-card-title {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+.service-card-tagline {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+.service-card-description {
+  color: #4b5563 !important;
+  opacity: 1 !important;
+}
+
+[class*="service"] button span,
+[class*="service"] .btn-steptoe span {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Force all service card text to have proper opacity */
+[class*="service-card"] * {
+  opacity: 1 !important;
+}
+
+/* Ensure button text is always white */
+button.btn-steptoe,
+button.btn-steptoe * {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Feature card hover effect */
+.feature-card {
+  @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+}
+
+/* Detail slider transition */
+.detail-slider-enter {
+  transform: translateX(100%);
+}
+
+.detail-slider-enter-active {
+  transform: translateX(0);
+  transition: transform 300ms ease-out;
+}
+
+.detail-slider-exit {
+  transform: translateX(0);
+}
+
+.detail-slider-exit-active {
+  transform: translateX(100%);
+  transition: transform 300ms ease-in;
+}
+
+/* Ensure all service card text remains visible during animations and hover states */
+.shadow-lg h3,
+.shadow-lg p,
+.shadow-lg span:not(.bg-\\[\\#f39200\\]),
+.shadow-lg button {
+  opacity: 1 !important;
+}
+
+/* Override framer-motion opacity during animations */
+[data-projection-id] h3,
+[data-projection-id] p,
+[data-projection-id] span,
+[data-projection-id] button {
+  opacity: 1 !important;
+}
+
+/* Ensure service card content area text is always visible */
+.rounded-xl .p-6 h3,
+.rounded-xl .p-6 p,
+.rounded-xl .p-6 span,
+.rounded-xl .p-6 button {
+  color: inherit !important;
+  opacity: 1 !important;
+}
