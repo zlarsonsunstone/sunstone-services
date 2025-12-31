@@ -1,0 +1,50 @@
+SUNSTONE GITHUB UPLOAD - FINAL SIMPLE METHOD
+==============================================
+
+STEP 1: DELETE OLD REPO
+------------------------
+1. Go to: https://github.com/zlarsonsunstone/sunstone-services/settings
+2. Scroll to bottom
+3. Click "Delete this repository"
+4. Type: zlarsonsunstone/sunstone-services
+5. Confirm
+
+STEP 2: CREATE NEW REPO
+------------------------
+1. Go to: https://github.com/new
+2. Repository name: sunstone-services
+3. Public
+4. Click "Create repository"
+
+STEP 3: UPLOAD THE ZIP
+----------------------
+1. On the empty repo page, look for "uploading an existing file"
+2. Click it
+3. Drag the ENTIRE "sunstone-FINAL" FOLDER (not individual files!)
+4. GitHub will show all folders and files
+5. Commit changes
+6. Wait for upload to finish
+
+STEP 4: VERIFY STRUCTURE
+-------------------------
+Your repo should show:
+- app/
+- components/
+- data/
+- lib/
+- public/
+- package.json
+- etc.
+
+NO loose .tsx files at root!
+
+STEP 5: DEPLOY TO VERCEL
+-------------------------
+1. Go to: https://vercel.com/new
+2. Refresh (F5)
+3. Click "Import" next to sunstone-services
+4. Click "Deploy"
+5. Wait 2 minutes
+6. Get your URL!
+
+DONE!
