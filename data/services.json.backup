@@ -1,0 +1,1152 @@
+
+{
+  "sections": [
+    {
+      "id": "federal-contracting",
+      "title": "Federal Contracting (GovCon) Support",
+      "subtitle": "Strategic intelligence and advisory services for federal market success",
+      "heroImage": "/images/federal-contracting-hero.jpg",
+      "description": "Comprehensive federal contracting intelligence and strategic advisory services designed to help your business navigate and succeed in the federal marketplace.",
+      "services": [
+        {
+          "id": "market-analysis",
+          "name": "Federal Market Range Analysis",
+          "shortName": "Floor–Ceiling TAM",
+          "tagline": "Know the true size of your federal opportunity—guesswork disguised as precision.",
+          "price": "$35,000",
+          "image": "/images/market-analysis.jpg",
+          "description": "Quantifies federal spend range: verified minimum to modeled maximum. Rather than presenting a single, misleading number, this engagement delivers a defensible range of federal spend in your target space—anchored by a verified Floor of directly attributable contract dollars and a modeled Ceiling.",
+          "whatsIncluded": [
+            "A 5-year range estimate of federal spend related to your defined offering",
+            "Breakdown of spend concentration by agencies, major programs, and channels",
+            "Transparent Floor–Ceiling methodology documentation",
+            "Plain-English interpretation for senior leadership and boards",
+            "Companion interpretation for Steptoe advocacy and policy positioning"
+          ],
+          "features": [
+            {
+              "title": "Defensible market range, not guesswork",
+              "description": "We combine hard federal contract data with structured modeling to give you a realistic Floor–Ceiling view of spend in your space."
+            },
+            {
+              "title": "Clear separation of fact vs. inference",
+              "description": "Every number is tagged as either observed or modeled, so executives and counsel know exactly what's solid and what's estimated."
+            },
+            {
+              "title": "Built for messy federal data",
+              "description": "Our method handles bundled awards, vague descriptions, and broad PSC/NAICS codes—the reality of how the government actually buys."
+            },
+            {
+              "title": "Decision-ready insight for leadership",
+              "description": "We don't just hand you a number; you get a short, narrative interpretation tailored to boardrooms, investors, and C-suites."
+            },
+            {
+              "title": "Directly actionable for sales and BD",
+              "description": "See which agencies, contract vehicles, and channels appear to concentrate the most relevant spend."
+            },
+            {
+              "title": "Advocacy fuel for Steptoe",
+              "description": "Steptoe gets a credible, data-backed story to take to appropriators, authorizers, and agency leaders—anchored in real federal dollars."
+            },
+            {
+              "title": "Transparent methodology, reusable logic",
+              "description": "Every analysis comes with a documented process that can be revisited, updated, and expanded as new data becomes available."
+            }
+          ],
+          "whenValuable": [
+            "You are considering a major push into or expansion within the federal market",
+            "Leadership, investors, or a board are asking for credible numbers on federal demand",
+            "Steptoe is preparing to advocate for your interests and needs grounded dollar figures",
+            "Public data is clearly incomplete or messy and an internal estimate will not withstand scrutiny"
+          ],
+          "approach": "Jointly define the target offering and use cases, construct a verified Floor using targeted contract searches, identify umbrella categories where related spend is embedded, develop a modeled Ceiling with conservative and aggressive assumptions, and deliver a synthesized narrative that connects the numbers to concrete strategic choices.",
+          "investment": "Standard engagement: $35,000 retail per defined offering and time window. Estimated level of effort: typically 70–100 professional hours, depending on complexity."
+        },
+        {
+          "id": "agency-prioritization",
+          "name": "Agency Prioritization Report",
+          "shortName": "Hourglass Buyer Targeting",
+          "tagline": "Know exactly which federal buyers and offices to pursue first.",
+          "price": "$60,000",
+          "image": "/images/agency-prioritization.jpg",
+          "description": "Ranks and explains your highest-value federal buyers and offices. Using a structured 'hourglass' method, we identify the specific federal buyers that matter most for your business.",
+          "whatsIncluded": [
+            "A ranked list of priority agencies, sub-agencies, and offices",
+            "Clear rationale for each top target including fit and accessibility",
+            "Identification of hidden or mis-coded buying behavior",
+            "Separate BLUF summary for quick leadership decisions",
+            "Supporting detail for BD team and Steptoe to plan targeted outreach"
+          ],
+          "features": [
+            {
+              "title": "Ranked target list, not a vague agency map",
+              "description": "We deliver a prioritized list of agencies, sub-agencies, and offices—so your team knows exactly where to focus limited BD, capture, and lobbying time."
+            },
+            {
+              "title": "Hourglass analysis of 'buyers like your buyers'",
+              "description": "We move beyond code and keyword searches by mining the full contract histories of companies that look like you, uncovering real buying behavior and hidden demand."
+            },
+            {
+              "title": "Signals that matter, not just total spend",
+              "description": "Targets are scored on fit, openness to new vendors, small-business friendliness, vehicle accessibility, and incumbent concentration—not just who spent the most."
+            },
+            {
+              "title": "Office-level clustering for practical campaigns",
+              "description": "Related offices are grouped into actionable buyer clusters, making it easier to design coordinated outreach, events, and Steptoe engagement across a community of buyers."
+            },
+            {
+              "title": "BLUF-first recommendations for executives",
+              "description": "Leadership gets a clear, short list of 'go here first' targets, with plain-English reasons why—no need to wade through data dumps to act."
+            },
+            {
+              "title": "Traceable logic for BD and Steptoe teams",
+              "description": "Behind the BLUF is a fully documented analytic trail—data pulls, similarity screens, and ranking factors—so BD and Steptoe can confidently defend and refine the plan."
+            },
+            {
+              "title": "Designed to pair with your broader strategy",
+              "description": "The output plugs directly into opportunity scanning, capture planning, and advocacy work, serving as the targeting backbone for your entire federal push."
+            }
+          ],
+          "whenValuable": [
+            "You are committed to the federal market but need to know exactly where to focus first",
+            "Your current strategy feels like 'calling everyone and hoping something sticks'",
+            "You've seen some federal traction but aren't sure which offices are your natural beachheads",
+            "Steptoe is preparing or refining an advocacy plan and needs specific buying communities to concentrate on"
+          ],
+          "approach": "Define the target offering and client profile, build an initial view using codes and keywords, apply hourglass filtering to narrow to 'companies like you', reopen their full contracting histories, aggregate and analyze buying patterns, cluster related offices, rank targets based on fit and accessibility, and deliver a BLUF-first report.",
+          "investment": "Standard engagement: $60,000 retail. Estimated level of effort: typically 80–200 professional hours, depending on market complexity and depth of buyer persona work."
+        },
+        {
+          "id": "opportunity-forecast",
+          "name": "Opportunity Forecast Report",
+          "shortName": "6–24 Month Pipeline",
+          "tagline": "See the next wave of federal opportunities before everyone else.",
+          "price": "$25,000",
+          "image": "/images/opportunity-forecast.jpg",
+          "description": "Forecasts likely recompetes and new programs 6–24 months ahead. Rather than reacting to RFPs after they appear, you gain an early, structured view of where and when work is likely to emerge.",
+          "whatsIncluded": [
+            "A ranked list of forecasted opportunities over the next 6–24 months",
+            "Recompete radar based on contracts reaching completion",
+            "View of early-stage opportunities from Sources Sought, RFIs, Industry Days",
+            "Budget-driven watch themes signaling where new opportunities will appear",
+            "BLUF summary for 'what's coming and what to do now'"
+          ],
+          "features": [
+            {
+              "title": "Forecasted opportunity list, not just current RFPs",
+              "description": "We combine multiple signals—forecasts, expiring contracts, early-stage notices, and budget trends—to show likely opportunities 6–24 months out."
+            },
+            {
+              "title": "Recompete radar from contract expiration data",
+              "description": "By tracking Ultimate Completion Dates for aligned contracts, we flag where follow-on work is likely and when to start positioning."
+            },
+            {
+              "title": "Early heads-up from RFIs and industry engagement",
+              "description": "Sources Sought, RFIs, Industry Days, and BAAs on SAM.gov become concrete leads instead of background noise."
+            },
+            {
+              "title": "Budget-informed 'crystal ball' themes",
+              "description": "Budget in Briefs and OMB projections highlight missions and capabilities that are about to attract more money—even before specific opportunities are visible."
+            },
+            {
+              "title": "Prioritized, scored opportunities",
+              "description": "Each forecast item is scored on fit, signal strength, accessibility, and lead time so your team knows which chances to pursue first."
+            },
+            {
+              "title": "BLUF-first delivery, details on demand",
+              "description": "Executives get a short list of top future opportunities and watch themes; BD and Steptoe get the underlying data and signals that support the calls."
+            },
+            {
+              "title": "Designed to plug into targeting and capture",
+              "description": "Best used after agency/office targeting, this report turns 'who to go after' into 'what to talk about with them over the next 6–24 months.'"
+            }
+          ],
+          "whenValuable": [
+            "You know which agencies/offices to target but need meaningful conversations and pursuits to anchor that outreach",
+            "Leadership is asking what the pipeline looks like next year and beyond, not just this quarter",
+            "You want to coordinate BD and Steptoe activity around upcoming opportunities",
+            "You're preparing for a funding or board conversation and need a forward-looking narrative"
+          ],
+          "approach": "Confirm time horizon and target agencies, collect and filter official agency forecasts, identify likely recompetes by analyzing completion dates, mine early-stage SAM.gov notices, integrate budget and planning documents, synthesize signals into scored forecast list, and deliver BLUF-first report.",
+          "investment": "Initial forecast build: $25,000 retail per offering and defined agency set. Estimated level of effort: typically 40–80 professional hours. Optional ongoing alert/refresh services available."
+        },
+        {
+          "id": "set-aside-strategy",
+          "name": "Set-Aside Strategy Roadmap",
+          "shortName": "Certification Strategy",
+          "tagline": "Turn your certifications into a real federal growth engine.",
+          "price": "$20,000 – $35,000",
+          "priceOptions": [
+            {
+              "tier": "Research Only",
+              "price": "$20,000",
+              "description": "Strategy you can execute yourself"
+            },
+            {
+              "tier": "Research + Application Support",
+              "price": "$35,000",
+              "description": "Strategy plus help applying it"
+            }
+          ],
+          "image": "/images/set-aside-strategy.jpg",
+          "description": "Turn certifications into a targeted federal growth plan. Helps you convert small-business and socio-economic certifications into a deliberate, data-driven federal growth plan.",
+          "whatsIncluded": [
+            "View of Certification Champion agencies for your specific status",
+            "Identification of Goal Gap Agencies underperforming against SBA goals",
+            "Side-by-side comparison of open market vs set-aside awards",
+            "Prioritized roadmap of which certifications and lanes to emphasize",
+            "Optional: Structured assistance with certification applications (Research + Support tier)"
+          ],
+          "features": [
+            {
+              "title": "See where your status actually moves the needle",
+              "description": "We identify 'Certification Champion' agencies and bureaus that heavily use your specific status (SDVOSB, 8(a), WOSB, HUBZone, IEE, etc.), so you know where to lean in."
+            },
+            {
+              "title": "Target agencies under pressure to award more",
+              "description": "We surface 'Goal Gap Agencies' that are missing SBA small-business or socio-economic goals and may be more receptive to qualified new vendors."
+            },
+            {
+              "title": "Compare open market and set-aside lanes",
+              "description": "We show how competition, award size, and contract duration differ between open competitions and set-aside awards, so you aren't over- or under-relying on status."
+            },
+            {
+              "title": "A tailored roadmap for certifications and targets",
+              "description": "You get a client-specific roadmap of which certifications to emphasize, which agencies/offices to pursue, and how to sequence near- and mid-term moves."
+            },
+            {
+              "title": "Option A – Research Only: Strategy you can execute yourself",
+              "description": "We deliver the analysis, BLUF recommendations, and supporting data so your team (and Steptoe) can run with it. Indicative investment: $20,000"
+            },
+            {
+              "title": "Option B – Research + Application Support",
+              "description": "In addition to the roadmap, we provide structured support to help your team act on it—working sessions, document checklists, and reviews of your certification applications and profiles. Indicative investment: $35,000"
+            },
+            {
+              "title": "Designed to plug into targeting and opportunity forecasting",
+              "description": "Best used alongside an Agency Prioritization Report and Opportunity Forecasting, so your certifications, buyer targets, and pipeline are all working from the same plan."
+            }
+          ],
+          "whenValuable": [
+            "You already hold or are considering one or more certifications and need to know how to use them strategically",
+            "You suspect your status is under-utilized, or you are pushing hard in the wrong agencies",
+            "Leadership is deciding where to invest—open market vs set-asides, one certification vs another",
+            "Steptoe is helping reposition your company and needs a clear certification-aware targeting plan"
+          ],
+          "approach": "Confirm certification profile and goals, analyze agency behavior and SBA data to identify Champions and Goal Gap Agencies, compare open market and set-aside lanes, synthesize findings into a roadmap, and optionally provide structured help with applications.",
+          "investment": "Research Only: $20,000 (30–60 professional hours). Research + Application Support: $35,000 (60–100 professional hours)."
+        },
+        {
+          "id": "competitor-analysis",
+          "name": "Competitor Market Share Analysis",
+          "shortName": "Competitive Intelligence",
+          "tagline": "See the real federal battlefield—and where you can actually win.",
+          "price": "$20,000 – $50,000",
+          "priceOptions": [
+            {
+              "tier": "Top 5 Competitors",
+              "price": "$20,000",
+              "effort": "60–100 professional hours"
+            },
+            {
+              "tier": "Top 10 Competitors",
+              "price": "$30,000",
+              "effort": "90–150 professional hours"
+            },
+            {
+              "tier": "Top 25 Competitors",
+              "price": "$50,000",
+              "effort": "140–220 professional hours"
+            }
+          ],
+          "image": "/images/competitor-analysis.jpg",
+          "description": "See who's winning, where, and how you stack up. Shows you the real federal battlefield in your space: who is winning how much, where they are entrenched, and how your company compares.",
+          "whatsIncluded": [
+            "Ranked view of competitors showing market share of obligations and awards",
+            "Detailed competitor profiles covering agencies, offices, vehicles, certifications",
+            "Contract health assessment looking for strained relationships and vulnerabilities",
+            "GAP and SWOT analysis comparing your capabilities against key competitors",
+            "Roadmap to comparative competitiveness highlighting where you can compete now"
+          ],
+          "features": [
+            {
+              "title": "Know exactly who dominates your federal niche",
+              "description": "We map the top competitors in your defined market, showing who holds what share of relevant federal spend and awards across your target agencies and offices."
+            },
+            {
+              "title": "Understand how deep competitor relationships really go",
+              "description": "We look beyond dollars to see where competitors are truly embedded—repeated awards, office-level patterns, and signs of preferred-vendor status vs. shallow one-off wins."
+            },
+            {
+              "title": "Spot stressed relationships and vulnerable incumbents",
+              "description": "We analyze contract histories, modification patterns, and status changes (e.g., small-business or 8(a) graduation) to flag incumbents that may be susceptible to challenge."
+            },
+            {
+              "title": "See how you stack up against the current leaders",
+              "description": "We compare competitor portfolios, vehicles, certifications, capabilities, and talent requirements against your profile, surfacing where you're already competitive and where you're not."
+            },
+            {
+              "title": "Get a practical roadmap to comparative competitiveness",
+              "description": "You receive clear guidance on where you can credibly compete now, what gaps to close, where to team, and where not to waste cycles."
+            },
+            {
+              "title": "Choose the depth that fits your needs and budget",
+              "description": "Start with a focused Top 5 analysis or expand to Top 10 or Top 25 for a full battlefield view, with each tier priced and scoped accordingly."
+            },
+            {
+              "title": "Built to plug into targeting and capture planning",
+              "description": "Outputs feed directly into agency targeting, opportunity forecasting, and capture strategy work, so your BD and Steptoe teams are all working from the same competitive picture."
+            }
+          ],
+          "whenValuable": [
+            "You are serious about a federal push and need to understand exactly who you're up against",
+            "You suspect certain incumbents are vulnerable and want to test that systematically",
+            "You need to explain to leadership, investors, or Steptoe how your company stacks up",
+            "You are planning to enter a new agency or market segment and want a data-backed competitive map"
+          ],
+          "approach": "Define the competitive scope, identify and rank competitors by market share, build competitor profiles and assess relationship depth, analyze contract history to surface vulnerable incumbents, compare competitors to your company through GAP and SWOT analysis, and deliver a roadmap.",
+          "investment": "Top 5: $20,000 (60–100 hours). Top 10: $30,000 (90–150 hours). Top 25: $50,000 (140–220 hours)."
+        },
+        {
+          "id": "incumbent-vulnerability",
+          "name": "Incumbent Vulnerability Analysis",
+          "shortName": "FMR 360",
+          "tagline": "Spot weak incumbents and where you can replace them.",
+          "price": "$25,000",
+          "image": "/images/incumbent-vulnerability.jpg",
+          "description": "Incumbent Vulnerability Analysis helps you see where existing federal contractors may be at risk—and where your company has a realistic opportunity to step in. Rather than chasing every recompete rumor, we use observable contract data and light, ethical office reconnaissance to identify contracts and incumbents that appear more contestable. The result is a focused view of where you can realistically knock someone off and how to prioritize limited capture resources.",
+          "whatsIncluded": [
+            "Find contracts nearing a real opening for challengers",
+            "Identify vulnerability signals without over-promising inside intel",
+            "Add light office recon, where appropriate",
+            "Distinguish entrenched incumbents from realistic targets",
+            "Tie vulnerability directly to your profile",
+            "Get a short list and a short plan",
+            "Lightweight by design"
+          ],
+          "features": [
+            {
+              "title": "Find contracts nearing a real opening for challengers",
+              "description": "We scan award and modification data to flag contracts entering a recompete window, with indicators that they may be more contestable."
+            },
+            {
+              "title": "Identify vulnerability signals without over-promising inside intel",
+              "description": "We look at things you can actually see—expiration timing, competition type, and modification patterns—to infer where incumbents may not be fully entrenched."
+            },
+            {
+              "title": "Add light office recon, where appropriate",
+              "description": "With you and Steptoe, we plan ethical, structured conversations with the buying office to understand whether a recompete is likely and whether they're open to change."
+            },
+            {
+              "title": "Distinguish entrenched incumbents from realistic targets",
+              "description": "We organize contracts and incumbents into simple vulnerability bands—high, moderate, low—so you know where to focus and where not to waste cycles."
+            },
+            {
+              "title": "Tie vulnerability directly to your profile",
+              "description": "We don't just say 'this incumbent is weak'; we highlight where your capabilities, vehicles, and status give you a credible shot at displacement."
+            },
+            {
+              "title": "Get a short list and a short plan",
+              "description": "You walk away with a prioritized list of realistic displacement targets and a succinct set of recommended next steps for capture and relationship-building."
+            },
+            {
+              "title": "Lightweight by design",
+              "description": "This is intentionally not a heavy forensic effort; it is a practical, signal-based view you can plug into broader targeting, forecasting, and capture planning."
+            }
+          ],
+          "whenValuable": [
+            "You are actively pursuing or considering specific agencies, missions, or contracts and want to know where incumbents might be vulnerable",
+            "Your capture team is spread thin and needs to focus on targets with real upside, not every visible recompete",
+            "You and Steptoe are formulating a broader federal growth or advocacy strategy and need concrete examples of where you can displace existing players",
+            "You want a lightweight input into capture planning that doesn't promise inside information but uses available signals smartly"
+          ],
+          "approach": "Define the target scope: mission area(s), agency/office, and time horizon for potential recompetes. Build a contracts/incumbent table using public award and modification data. Screen for vulnerability signals such as upcoming PoP expirations, competition type, set-aside status changes, and notable modification patterns. Where appropriate, coordinate light office recon with your team and Steptoe to gauge expectations around extension vs. recompete and general openness to alternatives. Synthesize findings into a Vulnerability Matrix (high/moderate/low) and then filter it through your actual capabilities, vehicles, and status. Deliver a BLUF-focused shortlist of realistic displacement opportunities and recommended next steps.",
+          "investment": "Standard scope (single mission / office focus): Indicative investment: $25,000 (provisional anchor). Estimated effort: typically 30–50 professional hours."
+        },
+        {
+          "id": "contract-vehicle-mapping",
+          "name": "Competitor Contract Vehicle Mapping",
+          "shortName": "FMR 370",
+          "tagline": "See which vehicles work—and where you lack access.",
+          "price": "$35,000",
+          "image": "/images/contract-vehicle-mapping.jpg",
+          "description": "Competitor Contract Vehicle Mapping shows you how your competitors actually reach the agencies you care about, and which contract vehicles are truly driving their wins. Rather than treating every GSA Schedule, IDIQ, or BPA as equally important, we look at real order and obligation patterns to separate high-value access points from under-used or symbolic vehicles. We then compare that picture to your current and potential vehicles to help you decide where to mirror, flank, or ignore.",
+          "whatsIncluded": [
+            "Reveal the real access paths your competitors use",
+            "Separate \"badge\" vehicles from real workhorses",
+            "Understand vehicle patterns by agency and office",
+            "Compare competitor vehicles to your current access",
+            "Get clear recommendations: mirror, flank, or ignore",
+            "Support BD, capture, and M&A decisions",
+            "Sized for practical decisions, not a data science project"
+          ],
+          "features": [
+            {
+              "title": "Reveal the real access paths your competitors use",
+              "description": "We map which GSA Schedules, GWACs, IDIQs, BPAs, and agency-specific vehicles competitors are using to win work in your space."
+            },
+            {
+              "title": "Separate \"badge\" vehicles from real workhorses",
+              "description": "By looking at task orders and obligations, we distinguish vehicles that generate meaningful revenue from those that are barely used."
+            },
+            {
+              "title": "Understand vehicle patterns by agency and office",
+              "description": "See which vehicles agencies rely on to buy what you sell, and how different competitors are routing into the same missions."
+            },
+            {
+              "title": "Compare competitor vehicles to your current access",
+              "description": "We highlight where you already match competitor access, where you have gaps, and where you may have unique or underused strengths."
+            },
+            {
+              "title": "Get clear recommendations: mirror, flank, or ignore",
+              "description": "For each major vehicle, you'll know whether it's a \"must-have,\" an optional differentiator, or something that isn't worth the chase right now."
+            },
+            {
+              "title": "Support BD, capture, and M&A decisions",
+              "description": "Use the findings to prioritize vehicle pursuits, evaluate teaming options, or identify acquisition targets that fill access gaps."
+            },
+            {
+              "title": "Sized for practical decisions, not a data science project",
+              "description": "A focused engagement around the competitors and agencies that matter most, with findings you can plug directly into your federal growth plan."
+            }
+          ],
+          "whenValuable": [
+            "You are planning or revising your contract vehicle strategy and need to know where competitors are actually winning",
+            "Leadership is debating which vehicles to pursue (or drop), and wants a data-backed view of utilization, not just labels",
+            "You are entering a new agency or mission space and want to understand how the current players get in the door",
+            "Steptoe is helping you shape a federal growth, teaming, or M&A strategy where access via vehicles is a critical factor"
+          ],
+          "approach": "Define the domain, competitor set, and target agencies/offices in consultation with you and Steptoe. Use federal award data to map awards by competitor and vehicle, grouping task orders under parent vehicles and normalizing names. Classify vehicle utilization (high/medium/low) based on orders, obligations, recency, and agency spread. Build agency–vehicle–competitor maps showing which vehicles are most important for specific agencies and missions. Compare competitor vehicle portfolios to your own current and potential vehicles. Deliver a BLUF-focused set of recommendations on: Must-have vs nice-to-have vs low-value vehicles. Where to mirror competitor access and where to pursue alternatives.",
+          "investment": "Standard engagement (3–7 competitors, 1–3 agencies): Indicative investment: $35,000 (provisional anchor). Estimated effort: typically 40–70 professional hours. Larger scopes with more competitors and agencies can be delivered using the same approach, with pricing and effort scaled accordingly."
+        },
+        {
+          "id": "strategic-positioning",
+          "name": "Strategic Positioning Assessment",
+          "shortName": "FMR 380 | Federal SWOT",
+          "tagline": "Candid federal SWOT and win/no-go roadmap.",
+          "price": "$45,000",
+          "image": "/images/strategic-positioning.jpg",
+          "description": "The Strategic Positioning Assessment provides a brutally honest, evidence-based view of where your company can realistically win in the federal market—and where it should not spend time or resources. We combine an internal assessment of your strengths and weaknesses with an external view of demand, competition, and policy to create a clear win/no-go picture. The engagement concludes with a primary, secondary, and tertiary strategy, sequenced over time, to guide leadership decisions and BD execution.",
+          "whatsIncluded": [
+            "Get a true federal SWOT, not a generic management slide",
+            "See how your reality lines up with market demand",
+            "Understand your competition and structural threats",
+            "Know exactly where to focus—and where to say no",
+            "Walk away with primary, secondary, and tertiary strategies",
+            "Designed for leadership decisions, not just BD talking points",
+            "Plugs into everything else you're doing"
+          ],
+          "features": [
+            {
+              "title": "Get a true federal SWOT, not a generic management slide",
+              "description": "We evaluate your company's strengths and weaknesses specifically through a federal lens: talent, scalability, past performance, assets, registrations, and brand readiness."
+            },
+            {
+              "title": "See how your reality lines up with market demand",
+              "description": "We look at spend, growth, and saturation in your sectors to show where demand and your capabilities actually intersect—and where they don't."
+            },
+            {
+              "title": "Understand your competition and structural threats",
+              "description": "We factor in active competitors, small vs large mix, set-aside dynamics, and policy shifts that could help or hurt you over the next few years."
+            },
+            {
+              "title": "Know exactly where to focus—and where to say no",
+              "description": "We organize agencies, missions, and types of work into clear zones: realistic win targets, conditional plays, and areas you should not pursue right now."
+            },
+            {
+              "title": "Walk away with primary, secondary, and tertiary strategies",
+              "description": "You get a structured strategy stack—with a Gantt-style roadmap—spelling out what to do first, what to build toward, and what to keep in the parking lot."
+            },
+            {
+              "title": "Designed for leadership decisions, not just BD talking points",
+              "description": "The output is built to support hard calls on investment, hiring, teaming, and where to let competitors have the field."
+            },
+            {
+              "title": "Plugs into everything else you're doing",
+              "description": "This assessment can sit on top of TAM, agency targeting, competitor analysis, and set-aside strategy work to align all of your federal moves around a coherent positioning."
+            }
+          ],
+          "whenValuable": [
+            "You are entering or scaling in the federal market and need more than optimism and anecdotes to guide investment",
+            "Leadership wants a candid, externalized view of your federal readiness and positioning",
+            "You are wrestling with questions like: 'Should we focus on being a prime or a sub?' 'Which agencies or missions make sense for us, really?' 'What are we simply not ready for yet?'",
+            "Steptoe is supporting a broader strategy, transaction, or advocacy effort and needs a clear, realistic picture of your federal position to align their work"
+          ],
+          "approach": "Clarify scope, time horizon, and leadership questions. Conduct an internal assessment of strengths and weaknesses through interviews, document review, and artifact evaluation. Perform an external assessment of demand, competition, saturation, set-aside dynamics, and policy shifts. Integrate findings into a federal SWOT and positioning map. Classify target segments into realistic win zones, conditional plays, and no-go areas. Define and present primary, secondary, and tertiary strategies, with a time-sequenced view of major moves.",
+          "investment": "Standard Strategic Positioning Assessment: Indicative investment: $45,000 (provisional anchor). Estimated effort: typically 50–90 professional hours, depending on depth of interviews and breadth of external analysis. Scopes can be extended or paired with deeper TAM, targeting, or competitor engagements, with pricing and effort scaled accordingly."
+        },
+        {
+          "id": "competitor-dossier",
+          "name": "Competitor Intelligence Dossier",
+          "shortName": "FMR 390 (Per Competitor)",
+          "tagline": "Deep, per-competitor profile, patterns, and vulnerabilities.",
+          "price": "$40,000",
+          "image": "/images/competitor-dossier.jpg",
+          "description": "The Competitor Intelligence Dossier provides a deep, targeted look at one named competitor or target, so you and Steptoe understand exactly who you are up against and where they might be vulnerable. This engagement goes well beyond surface-level market data. We assemble a detailed picture of the competitor's public footprint, contracts, vehicles, legal and lobbying posture, and talent, then synthesize it into a clear narrative of how they win and where you can credibly challenge them.",
+          "whatsIncluded": [
+            "See the full public footprint of one named competitor",
+            "Understand how they really win in federal",
+            "Surface relationship and contract health signals",
+            "Expose legal, regulatory, and lobbying posture",
+            "Decode their talent and organizational strengths",
+            "Get a clear vulnerabilities and angles section",
+            "Priced per competitor for surgical focus"
+          ],
+          "features": [
+            {
+              "title": "See the full public footprint of one named competitor",
+              "description": "We map their federal prime work, visible sub work, and key state/local contracts so you see where they're truly active, not just where they market themselves."
+            },
+            {
+              "title": "Understand how they really win in federal",
+              "description": "We analyze agencies, missions, vehicles, competition types, and award patterns to explain their playbook: where they're entrenched and where they're just dabbling."
+            },
+            {
+              "title": "Surface relationship and contract health signals",
+              "description": "We dig into contract history, recompete outcomes, and modification patterns to identify signs of stress, over-concentration, or emerging vulnerability."
+            },
+            {
+              "title": "Expose legal, regulatory, and lobbying posture",
+              "description": "We review protests, litigation, public filings, and lobbying disclosures to understand how they use process, policy, and advocacy to their advantage."
+            },
+            {
+              "title": "Decode their talent and organizational strengths",
+              "description": "We examine public org/talent signals to see where they're strong, where they're thin, and which leaders and SMEs anchor their federal relationships."
+            },
+            {
+              "title": "Get a clear vulnerabilities and angles section",
+              "description": "We don't just describe them—we point to potential vulnerabilities and outline practical ways you could differentiate, flank, or challenge them in specific agencies or contracts."
+            },
+            {
+              "title": "Priced per competitor for surgical focus",
+              "description": "Commission a dossier on the one or two rivals that matter most, use it to sharpen capture strategy, and feed it into Steptoe's legal, advocacy, or transaction planning as needed."
+            }
+          ],
+          "whenValuable": [
+            "You are consistently running into one specific rival in key deals or agencies",
+            "You are preparing for a major recompete and want to understand the incumbent in depth",
+            "You are considering M&A or teaming strategies and need a more granular picture of another company's public footprint",
+            "Steptoe is supporting you in litigation, advocacy, or a transaction where a deep understanding of the other side materially improves positioning"
+          ],
+          "approach": "Work with you and Steptoe to define the target competitor, why they matter, and the key questions you need answered. Build a baseline profile of the target's structure, leadership, and declared offerings. Analyze their federal and selected state/local contract history to map where and how they win. Assess relationship depth and contract health using recompete patterns, modifications, and public signals. Review legal, regulatory, and lobbying activity to understand strategic posture and risk context. Examine talent and organizational signals to identify strengths and gaps in their bench. Synthesize this into a coherent dossier with a BLUF section focused on vulnerabilities and actionable competitive angles.",
+          "investment": "Per Competitor Intelligence Dossier: Indicative investment: $40,000 (provisional anchor). Estimated effort: typically 45–80 professional hours, depending on the complexity and history of the target. Engagements involving multiple competitors can be scoped as separate dossiers or as part of a broader competitive program, with pricing and effort scaled accordingly."
+        },
+        {
+          "id": "co-database-personas",
+          "name": "Contracting Officer Database & Buyer Personas",
+          "shortName": "FMR 400",
+          "tagline": "Top CO contacts plus how—and when—they buy.",
+          "price": "$40,000",
+          "image": "/images/co-database-personas.jpg",
+          "description": "The Contracting Officer Database & Buyer Personas engagement identifies the actual awarders in the federal space you care about and shows you how they really buy. Rather than generic agency-level analysis, this work zeroes in on the contracting officers and specialists who have signed contracts in your domain, then builds structured buyer profiles that capture their set-aside habits, timing, competition patterns, and preferred vehicles. The result is a practical map of who to talk to, when, and how to position yourself.",
+          "whatsIncluded": [
+            "Names, emails, phones for the real decision-makers",
+            "Buyer histories like \"Andrea Lang\" and \"William Henry\"",
+            "See set-aside and competition preferences by individual CO",
+            "Know when they actually award",
+            "Understand how they buy—contract vs vehicle, PO vs IDIQ",
+            "See where the work goes and to whom",
+            "Delivered as both a database and executive-ready personas"
+          ],
+          "features": [
+            {
+              "title": "Names, emails, phones for the real decision-makers",
+              "description": "We identify the top contracting officers and specialists in your space—by name, office, and contact details—so outreach is targeted, not random."
+            },
+            {
+              "title": "Buyer histories like \"Andrea Lang\" and \"William Henry\"",
+              "description": "For your most important buyers, we build one-page personas showing exactly how they've bought: dollars, contracts, vendors, set-asides, vehicles, and more."
+            },
+            {
+              "title": "See set-aside and competition preferences by individual CO",
+              "description": "Understand which buyers heavily use 8(a) or SB set-asides, when they compete work, and how often they accept single-offer awards."
+            },
+            {
+              "title": "Know when they actually award",
+              "description": "We break down awards by month so you can time outreach and proposals to match real buying cycles, not generic fiscal-year folklore."
+            },
+            {
+              "title": "Understand how they buy—contract vs vehicle, PO vs IDIQ",
+              "description": "Each persona shows their mix of definitive contracts, purchase orders, and vehicle-based awards, as well as their reliance on firm fixed price and other types."
+            },
+            {
+              "title": "See where the work goes and to whom",
+              "description": "Maps of place of performance and top vendor lists help you see geographic and incumbent patterns around each buyer."
+            },
+            {
+              "title": "Delivered as both a database and executive-ready personas",
+              "description": "You get a structured contact file for CRM upload plus polished one-pagers your BD, capture, and executive teams can use in briefings."
+            }
+          ],
+          "whenValuable": [
+            "You have identified priority agencies or missions and now need to know which people actually sign the contracts",
+            "Your BD team is doing outreach that feels too generic or diffuse, without a clear sense of buyer behavior",
+            "You want to connect broader market intelligence (TAM, agency targeting, competitor analysis) with specific points of contact and buying patterns",
+            "Steptoe is helping you shape a federal strategy, advocacy, or transaction plan where understanding buyer behavior at the CO level will sharpen execution"
+          ],
+          "approach": "Define the domain, agencies, and time frame for analysis, plus the number of CO personas desired. Use federal award data to identify top contracting officers and specialists by contracts and obligations in your domain. Build a structured CO database with contact details and key buying indicators. For selected top buyers, construct persona one-pagers capturing set-aside usage, competition patterns, timing, contract types, places of performance, and top vendors. Synthesize findings into a short guidance note on how to prioritize and approach these buyers in practice.",
+          "investment": "Standard package (5–10 personas + CO database for 1–2 agencies): Indicative investment: $40,000 (provisional anchor). Estimated effort: typically 45–75 professional hours, depending on: Size of the domain and number of COs. Number of full personas requested. Complexity of the underlying award data. Larger scopes (additional agencies, more personas, or recurring updates) can be delivered using the same framework, with investment and effort scaled accordingly."
+        },
+        {
+          "id": "ai-outreach-tool",
+          "name": "Strategic Email AI Outreach Tool",
+          "shortName": "FMR 410",
+          "tagline": "AI-drafted outreach to real COs you already know.",
+          "price": "$30,000 setup",
+          "image": "/images/ai-outreach-tool.jpg",
+          "description": "The Strategic Email AI Outreach Tool helps you turn detailed CO research into practical, day-to-day outreach. After we build a foundation of CO contacts, personas, and buying history, this engagement creates an AI-assisted drafting environment that can generate tailored outreach emails for specific contracting officers and specialists. Each draft reflects your federal profile and the CO's real history, giving your team a faster, more informed starting point for contact rather than a blank page or generic template.",
+          "whatsIncluded": [
+            "Built on real CO names, contacts, and buying history",
+            "Personalized emails anchored in your federal profile",
+            "Outreach that references how each CO truly buys",
+            "Simple interface, multiple intents",
+            "Always working off current award data",
+            "Guardrailed for federal appropriateness",
+            "One-time setup, then a predictable monthly service"
+          ],
+          "features": [
+            {
+              "title": "Built on real CO names, contacts, and buying history",
+              "description": "This tool only activates after you've invested in CO and persona research. We plug your CO list, personas, and award data into an AI engine configured for your profile."
+            },
+            {
+              "title": "Personalized emails anchored in your federal profile",
+              "description": "The system ingests a structured client profile—offerings, set-asides, vehicles, differentiators—and uses it to keep every draft consistent with how you actually present in federal."
+            },
+            {
+              "title": "Outreach that references how each CO truly buys",
+              "description": "Draft emails reflect each CO's history and patterns (e.g., set-asides they favor, what they've bought, when they award), and can name 1–3 relevant awards as evidence of targeted research."
+            },
+            {
+              "title": "Simple interface, multiple intents",
+              "description": "Your team selects a CO and an outreach intent (intro meeting, capability briefing, targeted follow-up, etc.), and the tool returns one or more draft emails for human review and sending."
+            },
+            {
+              "title": "Always working off current award data",
+              "description": "As part of the monthly access, we update CO award histories so new buys, shifts in behavior, and emerging patterns can be reflected in your outreach."
+            },
+            {
+              "title": "Guardrailed for federal appropriateness",
+              "description": "Prompts and templates are tuned to avoid risky language, over-promising, or anything inconsistent with Steptoe's standards and federal norms."
+            },
+            {
+              "title": "One-time setup, then a predictable monthly service",
+              "description": "We configure the tool once around your profile and COs, then maintain it with monthly updates and on-demand changes when your strategy or targets evolve."
+            }
+          ],
+          "whenValuable": [
+            "You have already invested in CO-level research and personas and want a practical way to operationalize that intelligence",
+            "Your BD and capture teams spend too much time starting from scratch on emails, even when good intel exists",
+            "You want consistency of tone and positioning across outreach, anchored in how Steptoe is advising you to present",
+            "You're scaling outreach across multiple COs and offices and need a repeatable, controlled way to support that without creating compliance risk"
+          ],
+          "approach": "Confirm the pre-requisite CO research deliverables and define which COs and agencies will be included in the initial configuration. Capture and structure a client profile for federal outreach, including offerings, differentiators, set-asides, vehicles, and any messaging constraints. Prepare AI-ready CO persona and award records for the agreed set of COs. Design and configure an AI outreach tool that: Allows users to select a CO and outreach intent. Synthesizes client profile, persona data, and award references. Produces draft outreach emails for human review and refinement. Test and adjust the configuration with sample outputs to ensure appropriate tone and factual accuracy. Establish a monthly update process for CO award histories and a clear pathway for adding new COs or adjusting the underlying client profile.",
+          "investment": "One-time configuration and launch (for ~10–20 COs and 3–4 intents): Indicative investment: $30,000 (provisional anchor). Estimated effort: 35–55 professional hours. Ongoing maintenance and data refresh (monthly): Indicative investment: $3,000/month (provisional). Estimated effort: 4–8 professional hours per month. Ad-hoc CO additions or profile changes: Indicative investment: typically $2,500 per change batch (provisional). Effort scales with the number of added COs and complexity of profile changes."
+        },
+        {
+          "id": "industry-day-prep",
+          "name": "Industry Day Event Preparation",
+          "shortName": "FMR 420",
+          "tagline": "Agency-specific intel and playbook to maximize Industry Day outcomes.",
+          "price": "$25,000",
+          "image": "/images/industry-day-prep.jpg",
+          "description": "Industry Days are often the first and best chance to get in front of the right government and prime decision-makers. But without preparation, they can turn into crowded, unfocused networking sessions. This engagement turns a single Industry Day—or a small cluster of related events—into a targeted, intelligence-driven opportunity. We combine agency research, contract history, and tailored positioning into an 'Industry Day Essentials Kit' that helps your team show up ready, focused, and speaking the host agency's language.",
+          "whatsIncluded": [
+            "Deep dive on the host agency's mission, programs, and priorities",
+            "Contract history tied to what you sell",
+            "Map of who matters in the room (and beyond)",
+            "Agency-tailored capabilities statement and talking points",
+            "Prime and teaming conversation scripts",
+            "Event-day engagement playbook",
+            "Optional multi-event upgrade"
+          ],
+          "features": [
+            {
+              "title": "Deep dive on the host agency's mission, programs, and priorities",
+              "description": "We unpack what the agency and hosting office actually care about now, not just what's written in the event description."
+            },
+            {
+              "title": "Contract history tied to what you sell",
+              "description": "We analyze recent awards so you know which offices, programs, and primes have been buying work like yours—and how they've been buying it."
+            },
+            {
+              "title": "Map of who matters in the room (and beyond)",
+              "description": "We identify likely government and prime players, focusing on who is most relevant to your offerings and teaming strategy."
+            },
+            {
+              "title": "Agency-tailored capabilities statement and talking points",
+              "description": "Your materials and elevator pitches are tailored to the host agency's language, programs, and pain points, not generic government boilerplate."
+            },
+            {
+              "title": "Prime and teaming conversation scripts",
+              "description": "We provide clear scripts for approaching primes and potential partners, anchored in actual award and teaming patterns."
+            },
+            {
+              "title": "Event-day engagement playbook",
+              "description": "You walk in with a concise playbook: who to talk to, what to say, what to ask, and how to follow up."
+            },
+            {
+              "title": "Optional multi-event upgrade",
+              "description": "For clients attending multiple related events at the same agency/component, we expand the kit with additional event-specific mapping at a marginal cost."
+            }
+          ],
+          "whenValuable": [
+            "You have decided to attend (or are considering) a specific Industry Day and want to do more than 'show the flag'",
+            "You are engaging a new agency or component and do not yet speak their language or understand their buying patterns",
+            "Your team is stretched thin and does not have time to pull together mission, program, and contract intelligence before the event",
+            "You want to improve your odds of useful conversations—with the right government officials and primes—and have a defined follow-up plan from day one",
+            "You are piloting or scaling a federal go-to-market strategy and want a structured way to approach key Industry Days"
+          ],
+          "approach": "We start by clarifying your objectives, offerings, and current readiness for the event, including SAM/SBA status, existing capabilities materials, and any prior agency contact. We research the host agency's mission, strategic priorities, and program landscape, focusing on offices and initiatives tied to what you sell. We analyze recent contract and award history to identify who is actually buying your type of work, how they are buying it, and which primes and smalls are most active. We build a Likely Attendees & Target Map to focus your energy on the most relevant government offices and primes. We tailor your capabilities statement and messaging to reflect the agency's mission and program language, highlighting the elements that will resonate. We translate all of this into a practical, event-ready playbook that your BD and capture teams can use to prioritize conversations, ask better questions, and structure follow-ups. We conduct a live walkthrough session to ensure your team understands the research and is comfortable executing the plan at the event.",
+          "investment": "Standard Industry Day Essentials Kit (single event): Indicative investment: $25,000 (provisional anchor). Estimated effort: 38–60 professional hours, depending on agency familiarity and data complexity. Multi-Event Add-On (same agency/component, additional event of similar scope): Indicative investment: +$10,000 per additional event (provisional). Estimated incremental effort: 12–20 professional hours per added event."
+        },
+        {
+          "id": "pm-identification",
+          "name": "Program Manager / End-User Identification",
+          "shortName": "FMR 430",
+          "tagline": "Maps mission owners shaping requirements before contracting.",
+          "price": "$30,000",
+          "image": "/images/pm-identification.jpg",
+          "description": "Most federal capture efforts focus on contracting officers and specialists. But by the time a requirement reaches procurement, many of the critical choices have already been made by program managers, CORs, and mission owners. This engagement helps you identify and prioritize those upstream influencers in your target agencies and mission areas. Instead of guessing who shapes requirements, you get a structured, confidence-tiered map of the people and offices most likely to drive demand for what you do.",
+          "whatsIncluded": [
+            "Maps real technical and mission influencers—not just COs",
+            "Grounded in org charts, awards, and public appearances",
+            "Enriched with modern data tools",
+            "Confidence-tiered influencer map",
+            "Prioritized target list with engagement guidance",
+            "Transparent about limits and assumptions"
+          ],
+          "features": [
+            {
+              "title": "Maps real technical and mission influencers—not just COs",
+              "description": "We identify the PMs, CORs, and mission leads who quietly shape scopes of work and drive demand inside your target agencies."
+            },
+            {
+              "title": "Grounded in org charts, awards, and public appearances",
+              "description": "We connect organizational structure, award history, and industry day / conference participation to infer who is actually running key programs."
+            },
+            {
+              "title": "Enriched with modern data tools",
+              "description": "Using LinkedIn Sales Navigator, private lead databases like ZoomInfo, and other sources under your licenses, we validate roles and contact details where appropriate."
+            },
+            {
+              "title": "Confidence-tiered influencer map",
+              "description": "Every mapping is tagged with a simple confidence level, so your team knows which relationships are well-supported and which are hypotheses to test."
+            },
+            {
+              "title": "Prioritized target list with engagement guidance",
+              "description": "We don't just hand you names; we provide a ranked list and practical notes on how and where to begin engaging."
+            },
+            {
+              "title": "Transparent about limits and assumptions",
+              "description": "Where we can't connect to a specific program, we say so and explain why, instead of forcing a false precision."
+            }
+          ],
+          "whenValuable": [
+            "You are moving beyond opportunistic bidding and want to shape demand upstream in specific mission areas",
+            "You already know the COs and contracting shops but do not know who actually 'owns' the requirement inside the program or mission organization",
+            "You are entering a new agency or domain and need a structured way to find the right technical and mission stakeholders",
+            "You are supporting a capture effort on a complex program and want to understand the ecosystem of PMs, technical leads, and influencers around it",
+            "Your BD team is spending significant time chasing COs when the real leverage points may be in program offices"
+          ],
+          "approach": "We begin by defining the agencies, components, and mission focus you care about, and the level of granularity that is realistic and useful. We map organizational structures and mission responsibilities, then connect those structures to actual award patterns in your capability area. Using org charts, staff directories, LinkedIn Sales Navigator, licensed lead databases, industry day materials, and other public sources, we build a list of candidate PMs, CORs, and mission owners. We cross-check roles against awards, programs, and public presentations, assigning a simple confidence level to each mapping. We translate this into a PM / End-User Influencer Map and a prioritized target list, with clear notes on how to begin engaging and where further validation is needed. Where appropriate, and with your agreement, we design and support targeted FOIA requests to refine or confirm ownership for particularly important programs or awards.",
+          "investment": "Standard PM / End-User Identification (single agency/mission area): Indicative investment: $30,000 (provisional anchor). Estimated effort: 40–66 professional hours, depending on agency complexity, data availability, and depth of enrichment. PM / End-User Identification + FOIA Support: Indicative investment: $40,000 (provisional). Incremental effort: typically 12–20 additional hours for FOIA scoping, request drafting, and integration of responses."
+        },
+        {
+          "id": "agency-reconnaissance",
+          "name": "Agency Reconnaissance Report",
+          "shortName": "FMR 440",
+          "tagline": "Step-by-step relationship roadmap into a target agency.",
+          "price": "$30,000",
+          "image": "/images/agency-reconnaissance.jpg",
+          "description": "Many federal vendors know an agency's name and maybe a few contracting officers—but lack a coherent plan for how to work their way in. This engagement converts agency-level reconnaissance into a simple, sequenced relationship strategy for a specific department or component. Rather than leaving your team with a long PDF and no clear next steps, we provide a 'do this, then this' roadmap that shows how to move from unknown to credible participant in that agency's ecosystem.",
+          "whatsIncluded": [
+            "Turns dense agency intel into a simple 'do this, then this' plan",
+            "Built on real agency reconnaissance, not generic advice",
+            "Identifies the right gateways and anchor offices",
+            "Shows typical pathways in for that specific agency",
+            "Prioritized targets and example outreach approaches",
+            "Clear, time-phased roadmap your BD team can own"
+          ],
+          "features": [
+            {
+              "title": "Turns dense agency intel into a simple 'do this, then this' plan",
+              "description": "We transform mission, budget, buying DNA, and contact data into a clear sequence of actions your team can actually follow."
+            },
+            {
+              "title": "Built on real agency reconnaissance, not generic advice",
+              "description": "The plan draws from structured recon—like your VA example—covering mission, strategic plans, contracting patterns, and key offices."
+            },
+            {
+              "title": "Identifies the right gateways and anchor offices",
+              "description": "We highlight which small business liaisons, strategic acquisition centers, program offices, and primes should anchor your initial push."
+            },
+            {
+              "title": "Shows typical pathways in for that specific agency",
+              "description": "We map realistic 'OSDBU → program office → CO/vehicle' pathways tailored to how this agency actually engages industry."
+            },
+            {
+              "title": "Prioritized targets and example outreach approaches",
+              "description": "You get a ranked target map (gov + primes) and practical guidance on how to start, in language that reflects agency norms."
+            },
+            {
+              "title": "Clear, time-phased roadmap your BD team can own",
+              "description": "A 6–18 month relationship roadmap with near-term actions, medium-term moves, and long-term positioning steps."
+            }
+          ],
+          "whenValuable": [
+            "You are serious about breaking into or expanding within a particular agency, but your team lacks a structured, shared plan",
+            "You have some combination of CO intel, agency research, and vendor analysis, but it lives in different places with no clear line to action",
+            "You want to move your team from opportunistic responses to a deliberate, relationship-driven approach at a specific agency",
+            "You are preparing to scale your presence at an agency where you have early traction and want to ensure you invest time in the right offices and primes",
+            "Leadership is asking, 'What, exactly, is our plan for this agency?' and you need a concrete answer"
+          ],
+          "approach": "We begin by clarifying your objectives and starting point: why this agency, what success looks like, and what relationships and awards you already have. We build or refresh an agency reconnaissance base (or reuse existing work) covering mission, priorities, buying behavior, and key organizations. We identify relationship gateways and anchor offices, including small business offices, strategic acquisition centers, and program offices aligned to your offerings. We map realistic pathways into and through the agency that align with your set-aside status, vehicles, and capabilities. We convert those pathways into a phased relationship roadmap with clear, sequential actions and responsibilities. We layer in specific targets and example engagement approaches, then walk through the strategy with your team and refine it based on your on-the-ground knowledge.",
+          "investment": "Standard Agency Reconnaissance Strategy (single agency/component): Indicative investment: $30,000 (provisional anchor). Estimated effort: 38–62 professional hours, depending on how much recon can be reused and the complexity of the agency. Deep-Dive Agency Reconnaissance + Strategy (heavier recon update/build): Indicative investment: $40,000 (provisional). Incremental effort: generally 15–25 additional hours, reflecting deeper recon and a more complex roadmap across multiple offices or mission areas."
+        },
+        {
+          "id": "market-opportunity",
+          "name": "Federal Market Opportunity Assessment",
+          "shortName": "FMR 450",
+          "tagline": "Evidence-based go / no‑go and ramp timing for federal growth.",
+          "price": "$40,000",
+          "image": "/images/market-opportunity.jpg",
+          "description": "The Federal Market Opportunity Assessment helps leadership teams decide whether, when, and how to pursue U.S. federal contracting. Instead of starting with generic trillion‑dollar TAM numbers, we look at what has actually happened to companies like yours—how long it took them to win, how they grew, and when some chose to walk away. We combine those patterns with a targeted view of federal demand in your space and your own constraints to give you an evidence‑based view of whether federal is worth it, on what timeline, and under what conditions.",
+          "whatsIncluded": [
+            "See what 'success in federal' actually looks like for your peers",
+            "Replace generic TAM slides with realizable opportunity ranges",
+            "Understand time-to-first-win and ramp, before you hire a BD army",
+            "Test multiple go-to-market scenarios, not just 'go big or go home'",
+            "Get a clear go / proceed cautiously / not a fit call",
+            "Align executives, boards, and investors around realistic expectations",
+            "Plug directly into your broader federal strategy work"
+          ],
+          "features": [
+            {
+              "title": "See what 'success in federal' actually looks like for your peers",
+              "description": "We build comparable cohorts of similarly situated companies and study how long it took them to win, grow, or walk away."
+            },
+            {
+              "title": "Replace generic TAM slides with realizable opportunity ranges",
+              "description": "Instead of trillion‑dollar headlines, you get a grounded view of where federal demand overlaps with what you actually sell."
+            },
+            {
+              "title": "Understand time-to-first-win and ramp, before you hire a BD army",
+              "description": "We estimate how long it typically takes to see meaningful revenue for companies like yours under different investment levels."
+            },
+            {
+              "title": "Test multiple go-to-market scenarios, not just 'go big or go home'",
+              "description": "Compare conservative partner‑led plays, focused agency pushes, and more aggressive federal buildouts—with investment implications for each."
+            },
+            {
+              "title": "Get a clear go / proceed cautiously / not a fit call",
+              "description": "We don't sugarcoat it. You get a recommendation that ties data, patterns, and constraints into a simple decision path."
+            },
+            {
+              "title": "Align executives, boards, and investors around realistic expectations",
+              "description": "Use the assessment to anchor internal conversations on timelines, costs, and what 'good' looks like so no one is surprised in year three."
+            },
+            {
+              "title": "Plug directly into your broader federal strategy work",
+              "description": "The output becomes the backbone for prioritizing agencies, staffing a BD function, and deciding where Steptoe's advocacy or litigation work fits."
+            }
+          ],
+          "whenValuable": [
+            "You are weighing whether to enter the federal market or to materially expand an ad hoc federal presence",
+            "Your leadership or board is asking for hard numbers and timelines before committing to BD hires, vehicles, or partnerships",
+            "You have multiple strategic options (commercial expansion, international, M&A, federal) and need to compare them on a realistic basis",
+            "You suspect federal might be attractive but want to understand the patience, resources, and risk required",
+            "You want an independent, data‑anchored view to complement internal advocacy from champions of federal growth"
+          ],
+          "approach": "Clarify your objectives, constraints, and planning horizon for federal (e.g., 3–5 years). Define appropriate peer and aspirational cohorts and collect observable data on their federal paths. Analyze federal demand and award patterns in your likely mission and capability areas. Map your profile—offerings, vehicles, relationships, and constraints—against those patterns. Construct 2–3 realistic ramp scenarios, with indicative revenue ranges and investment levels. Reach a clear recommendation on whether and how to move forward, and capture it in an executive‑ready deliverable.",
+          "investment": "Standard scope: Single core offering set, 3–5 year horizon, 2–3 comparator cohorts. Indicative investment: $40,000 (provisional anchor). Estimated effort: approximately 55–80 professional hours."
+        },
+        {
+          "id": "contract-vehicle-strategy",
+          "name": "Contract Vehicle Strategy",
+          "shortName": "FMR 460",
+          "tagline": "Decide which federal vehicles matter—and which to ignore.",
+          "price": "$35,000",
+          "image": "/images/contract-vehicle-strategy.jpg",
+          "description": "Contract Vehicle Strategy helps you decide which federal contract vehicles actually matter for your business—and which ones you can safely deprioritize. Rather than assuming you must 'get GSA' or chase every new GWAC, we look at how your target customers are really buying today, how current federal initiatives are reshaping those choices, and how your company can most credibly access those channels. The result is a prioritized, time‑phased roadmap for vehicles and on‑ramps that fits your offerings, risk appetite, and growth goals.",
+          "whatsIncluded": [
+            "See how your market actually buys—not how people talk about it",
+            "Understand the impact of current federal initiatives on your sector",
+            "Get a vehicle-by-vehicle fit and access assessment",
+            "Prioritize vehicles instead of chasing everything",
+            "Align BD, capture, and partnership strategy around the right on-ramps",
+            "Support better conversations with leadership, boards, and partners"
+          ],
+          "features": [
+            {
+              "title": "See how your market actually buys—not how people talk about it",
+              "description": "We analyze real award data to show which Schedules, GWACs, IDIQs, BPAs, and standalone contracts your target buyers are using today."
+            },
+            {
+              "title": "Understand the impact of current federal initiatives on your sector",
+              "description": "We factor in efforts like GSA consolidation, category management, 'One Gov,' and agency‑specific pushes so you aren't planning against an outdated playbook."
+            },
+            {
+              "title": "Get a vehicle-by-vehicle fit and access assessment",
+              "description": "For each relevant vehicle, we map eligibility, entry paths (prime, sub, JV, CTA), and the practical burden of getting on and staying compliant."
+            },
+            {
+              "title": "Prioritize vehicles instead of chasing everything",
+              "description": "You get a clear tiering—what's critical, what's optional, and what to ignore for now—based on utilization and your profile."
+            },
+            {
+              "title": "Align BD, capture, and partnership strategy around the right on-ramps",
+              "description": "The output becomes a roadmap that tells you where to invest proposal energy, where to partner, and where not to waste cycles."
+            },
+            {
+              "title": "Support better conversations with leadership, boards, and partners",
+              "description": "Use the strategy to explain why you're pursuing specific vehicles—and why you're not—with data and policy context to back it up."
+            }
+          ],
+          "whenValuable": [
+            "You are planning a serious federal push and keep hearing conflicting advice on 'must‑have' vehicles",
+            "Leadership is debating whether to invest in GSA Schedules, major GWACs, or agency MACs without clear evidence",
+            "You already have some vehicles and want to know whether to double down, diversify, or pivot",
+            "Your BD and capture teams are stretched thin, and you need to focus proposal and teaming energy where it truly matters",
+            "You want a defensible, data‑anchored rationale for your vehicle posture to share with executives, boards, and partners"
+          ],
+          "approach": "Clarify your growth objectives, target agencies/missions, and core offerings. Define the relevant universe of vehicles and contract types for those markets. Analyze recent award data to understand which vehicles and channels buyers are actually using. Overlay current policy and initiative context that may accelerate or shift vehicle usage. Assess your fit and realistic access paths for each priority vehicle. Build a prioritized, time‑phased Contract Vehicle Strategy with clear near‑term and mid‑term moves.",
+          "investment": "Standard scope: One primary mission set, 1–3 target agencies, and 3–5 key vehicle families. Indicative investment: $35,000 (provisional anchor). Estimated effort: approximately 50–70 professional hours."
+        },
+        {
+          "id": "solicitation-intelligence",
+          "name": "Solicitation Intelligence Report",
+          "shortName": "FMR 470",
+          "tagline": "Go/no-go and bid‑sharpening intel for a specific RFP.",
+          "price": "$18,000",
+          "image": "/images/solicitation-intelligence.jpg",
+          "description": "The Solicitation Intelligence Report is a focused, one‑opportunity engagement that helps you decide whether—and how—to bid a specific RFP. Instead of reading the documents three times, crowdsourcing opinions from your team, and still feeling uncertain, you get a structured assessment that blends opportunity history, incumbent analysis, evaluation strategy, and a disciplined Go / No‑Go framework. We combine a short RFP Readiness Quiz with a Skyway‑style 0–100 RFP Score, then layer in data on the incumbent, pricing/level‑of‑effort patterns, and acquisition strategy. The result is a clear recommendation on whether to bid, in what role, and how to sharpen your approach if you proceed.",
+          "whatsIncluded": [
+            "Turn a confusing RFP into a clear yes/no decision",
+            "Use proven RFP scoring instead of 'we'll figure it out'",
+            "See the incumbent, history, and pricing patterns clearly",
+            "Align with how this RFP will really be evaluated",
+            "Choose the right role: prime, sub, or 'not this time'",
+            "Sharpen the bid instead of throwing more pages at it",
+            "Protect your proposal team and cash flow",
+            "Repeatable framework you can use across your pipeline"
+          ],
+          "features": [
+            {
+              "title": "Turn a confusing RFP into a clear yes/no decision",
+              "description": "We turn dense solicitation packages into a structured Go / No‑Go call grounded in relationship, resources, and real‑world delivery risk."
+            },
+            {
+              "title": "Use proven RFP scoring instead of 'we'll figure it out'",
+              "description": "Apply a Skyway‑style 0–100 RFP Score and a simple Readiness Quiz so your team stops arguing feelings and starts using evidence."
+            },
+            {
+              "title": "See the incumbent, history, and pricing patterns clearly",
+              "description": "We dig into prior awards, vehicles, and performance to show you who you're really competing against and how big the work actually is."
+            },
+            {
+              "title": "Align with how this RFP will really be evaluated",
+              "description": "We unpack the evaluation and acquisition strategy so you know what evaluators care about, what they'll trade off, and what's just boilerplate."
+            },
+            {
+              "title": "Choose the right role: prime, sub, or 'not this time'",
+              "description": "Get concrete recommendations on whether to prime, subcontract, or sit out—plus who to call if teaming is the smart move."
+            },
+            {
+              "title": "Sharpen the bid instead of throwing more pages at it",
+              "description": "For Go decisions, you receive targeted guidance on themes to lead with, risks to neutralize, and where to be aggressive or conservative on price."
+            },
+            {
+              "title": "Protect your proposal team and cash flow",
+              "description": "We factor in your staffing and financial reality: if this bid would break your team or your balance sheet, we will say so plainly."
+            },
+            {
+              "title": "Repeatable framework you can use across your pipeline",
+              "description": "The same method can be applied across your RFP list to clean up your pipeline and focus effort where the odds are highest."
+            }
+          ],
+          "whenValuable": [
+            "A specific RFP has become a lightning rod inside your company—leadership wants it, but delivery, finance, and BD are not aligned on the risk",
+            "You are unsure whether to prime, sub, or sit out a recompete where the incumbent looks deeply entrenched",
+            "The solicitation is large, complex, or multi‑year, and you want an independent view on whether the opportunity fits your real capabilities and balance sheet",
+            "Your proposal team is stretched, and you need to prioritize work using something more robust than 'we'll see what happens'",
+            "You're trying to institutionalize Go / No‑Go discipline and want a concrete, repeatable product to anchor those decisions"
+          ],
+          "approach": "Intake and Context. We start with a short call to understand why this opportunity matters, how it fits your strategy, and your current inclination to bid. Readiness & Score. We walk through a 5‑question RFP Readiness Quiz and a structured RFP Score to quantify relationship, resource, and risk factors. Document & History Review. We review the solicitation package, Q&A, and public data to build a fact‑based picture of the requirement, history, incumbents, and likely level of effort. Evaluation & Strategy Analysis. We interpret the evaluation criteria and acquisition approach to highlight what it will really take to win. Teaming & Role. We assess your likely competitiveness as a prime vs sub and recommend a practical role and teaming posture. Go / No‑Go & Guidance. We deliver a concise report and debrief that clearly states our recommendation and provides actionable guidance for bid strategy if you proceed.",
+          "investment": "For a single RFP of standard complexity: Indicative investment: $18,000 (per solicitation, provisional anchor). Estimated effort: typically 25–35 professional hours, depending on document volume, history complexity, and availability of data. For more complex, enterprise‑scale solicitations (e.g., large IDIQ MACs, major enterprise IT or logistics contracts), we apply the same method but expand the research and history components and increase engagement with your leadership and capture staff. Those efforts generally fall in the $22,000–$30,000 range, with 35–50 hours of professional time, scoped explicitly before work begins."
+        },
+        {
+          "id": "growth-engine-blueprint",
+          "name": "Federal Growth Engine Blueprint",
+          "shortName": "FMR 480",
+          "tagline": "Design your end‑to‑end federal BD, capture, and proposal machine.",
+          "price": "$55,000",
+          "image": "/images/growth-engine-blueprint.jpg",
+          "description": "Most federal contractors rely on a handful of experienced people and a lot of improvisation to win work. That works for a while—until the pipeline grows, the stakes rise, or key people get stretched too thin. The Federal Growth Engine Blueprint engagement is designed to replace improvisation with a clear, integrated operating model for how you find, shape, bid, and win federal work. Using your real opportunities and internal practices as a starting point, we map your existing business development, capture, and proposal processes against proven frameworks. We then design a tailored, end‑to‑end lifecycle—stages, decision points, roles, and artifacts—that fits your strategy and capacity. The output is a blueprint your team can actually run, not a generic textbook.",
+          "whatsIncluded": [
+            "See your true BD–capture–proposal lifecycle in one picture",
+            "Turn tribal knowledge into a repeatable operating model",
+            "Build real Go / No‑Go discipline into your pipeline",
+            "Clarify who owns what across BD, capture, and proposals",
+            "Standardize proposals without choking creativity",
+            "Prioritize changes by impact, not by theory",
+            "Scale beyond founders and 'proposal heroes'"
+          ],
+          "features": [
+            {
+              "title": "See your true BD–capture–proposal lifecycle in one picture",
+              "description": "We map how you actually chase and win work today, then overlay proven frameworks to expose the leaks and bottlenecks."
+            },
+            {
+              "title": "Turn tribal knowledge into a repeatable operating model",
+              "description": "Your Business Development Lifecycle, Capture Guide, and Proposal Guide become a concrete, tailored playbook your whole team can follow."
+            },
+            {
+              "title": "Build real Go / No‑Go discipline into your pipeline",
+              "description": "We embed structured scoring and gate decisions into your lifecycle so you stop burning cycles on bad‑fit opportunities."
+            },
+            {
+              "title": "Clarify who owns what across BD, capture, and proposals",
+              "description": "Roles, handoffs, and reviews become explicit so opportunities stop falling through organizational cracks."
+            },
+            {
+              "title": "Standardize proposals without choking creativity",
+              "description": "We design right‑sized proposal processes, calendars, and templates so you can be both compliant and compelling under real deadlines."
+            },
+            {
+              "title": "Prioritize changes by impact, not by theory",
+              "description": "The blueprint includes a 90‑day and 6‑month implementation roadmap focused on the moves that will change outcomes fastest."
+            },
+            {
+              "title": "Scale beyond founders and 'proposal heroes'",
+              "description": "As you grow, new team members plug into a system instead of reinventing federal growth from scratch."
+            }
+          ],
+          "whenValuable": [
+            "You are moving from a few opportunistic wins to a deliberate federal growth strategy",
+            "Leadership is frustrated with inconsistent win rates and constant proposal chaos",
+            "Different teams have different stories about how federal work is actually won",
+            "You are adding BD, capture, or proposal staff and want them operating inside a coherent system",
+            "You need your federal engine to scale without depending on a single rainmaker or proposal hero"
+          ],
+          "approach": "Discovery & Mapping. We interview key stakeholders, review recent pursuits, and map your existing BD–capture–proposal flow. Framework Comparison & Gap Analysis. We compare your practice to structured lifecycle, capture, and proposal frameworks to identify concrete gaps and over‑extensions. Lifecycle and Operating Model Design. We co‑design an opportunity lifecycle tailored to your business, with explicit stages, gates, roles, and required artifacts. Proposal Operations Blueprint. We translate Proposal Guide principles into concrete calendars, templates, and review practices that fit your opportunities and team size. Integration & Roadmap. We integrate everything into a single Federal Growth Engine Blueprint and facilitate an executive readout to align on implementation priorities.",
+          "investment": "For a standard mid‑market client: Indicative investment: $55,000 (provisional anchor) for a single‑business‑unit engine design. Estimated effort: typically 58–80 professional hours, including discovery, analysis, design, packaging, and executive facilitation."
+        },
+        {
+          "id": "proposal-writing-strategy",
+          "name": "Proposal Writing & Strategy Support",
+          "shortName": "FMR 490",
+          "tagline": "End‑to‑end proposal strategy, writing, and design for key bids.",
+          "price": "$45,000",
+          "image": "/images/proposal-writing-strategy.jpg",
+          "description": "High‑stakes proposals are where all of your capture work either pays off or disappears. Many teams know what they want to say but struggle to turn that into a clear, compliant, and persuasive document under real‑world time pressure. The Proposal Writing & Strategy Support engagement is designed for those moments. Rather than simply reviewing or lightly editing what your team produces, we step in alongside you to help architect, write, and design key parts of the response. Using structured proposal workflows and the standards visible in our own examples, we turn dense solicitations into submissions that evaluators can understand and want to select.",
+          "whatsIncluded": [
+            "Translate dense RFPs into a clear, winnable story",
+            "Get hands‑on help writing the proposal, not just edits",
+            "Build in compliance from day one, not at the end",
+            "Add professional design without risking disqualification",
+            "Align the proposal with your capture strategy and win themes",
+            "Reduce stress on your internal team",
+            "Create reusable proposal assets for the next opportunity"
+          ],
+          "features": [
+            {
+              "title": "Translate dense RFPs into a clear, winnable story",
+              "description": "We break down sections L and M and build a storyboard so your proposal tells a coherent, evaluator‑friendly story."
+            },
+            {
+              "title": "Get hands‑on help writing the proposal, not just edits",
+              "description": "Our team drafts major sections with your SMEs, transforming raw input into compelling, structured content."
+            },
+            {
+              "title": "Build in compliance from day one, not at the end",
+              "description": "We use a Compliance Matrix and structured reviews so every requirement is addressed where evaluators expect to see it."
+            },
+            {
+              "title": "Add professional design without risking disqualification",
+              "description": "Layout, visuals, and structure are crafted to look like your best work while staying squarely inside formatting rules."
+            },
+            {
+              "title": "Align the proposal with your capture strategy and win themes",
+              "description": "We carry through what you know about the customer, incumbent, and competition so the document reflects real strategy—not just boilerplate."
+            },
+            {
+              "title": "Reduce stress on your internal team",
+              "description": "Your people stay focused on operations and critical inputs instead of trying to manage a full proposal build at the same time."
+            },
+            {
+              "title": "Create reusable proposal assets for the next opportunity",
+              "description": "Sections, graphics, and structures are designed to be leveraged across your broader pipeline."
+            }
+          ],
+          "whenValuable": [
+            "You are pursuing a must‑win opportunity and want outside help to raise the quality bar",
+            "Internal proposal resources are stretched thin or inexperienced with the specific opportunity type",
+            "Your team has strong technical content but struggles with structure, clarity, or alignment to evaluation criteria",
+            "Leadership wants more confidence that the submission is both strategic and compliant, not just 'as good as we could manage under the time we had'",
+            "You are seeking to create reusable proposal assets and want this bid to set a new standard"
+          ],
+          "approach": "Intake & Scoping. We confirm the RFP, deadlines, roles, and the specific sections where Steptoe will provide hands‑on support. Strategy & Storyboarding. We interpret the RFP's instructions and evaluation criteria, then build a proposal storyboard and win‑theme map. Drafting & SME Collaboration. We work with your SMEs to draft and refine key sections, ensuring the content is accurate, persuasive, and aligned with your broader capture strategy. Compliance & Design. We build and track against a Compliance Matrix while applying professional but compliant layout and design. Reviews & Finalization. We run structured reviews, incorporate feedback, and deliver a final, submission‑ready proposal package.",
+          "investment": "Indicative ranges (subject to scoping after we see the RFP): Core Writing & Strategy Only: Typical investment: $30,000. Typical effort: 40–70 hours of Steptoe time. Writing + Strategy + Design (Full Package): Typical investment: $45,000 (provisional anchor for mid‑complexity proposals). Typical effort: 80–140 hours, depending on length, complexity, number of sections, and level of design required."
+        },
+        {
+          "id": "federal-registration-suite",
+          "name": "Federal Registration Suite",
+          "shortName": "FMR 510",
+          "tagline": "Set up and optimize SAM, DSBS, and codes to win work.",
+          "price": "$10,000",
+          "image": "/images/federal-registration-suite.jpg",
+          "description": "Before you can win federal work, you have to exist in the systems the government and primes actually use. Many firms stall or lose months to avoidable issues in SAM, DSBS, and related portals. The Federal Registration Suite is a focused engagement that gets your registrations set up correctly, aligned with your offerings, and positioned so agencies and primes can actually find you. We combine targeted NAICS/PSC research, registration gap analysis, and hands‑on support across SAM, SBA/DSBS, and other relevant systems (such as FEMA and PIEE). The goal is simple: ensure you are eligible, visible, and not blocked by technicalities when opportunities arise.",
+          "whatsIncluded": [
+            "Stand up SAM and SBA profiles the right way",
+            "Choose NAICS and PSC codes that actually fit your business",
+            "Fix the hidden issues that stall registrations",
+            "Align FEMA, PIEE, and other portals with your core profile",
+            "Stay consistent across every system that matters",
+            "Get to UEI and CAGE Code without guesswork",
+            "Walk away with a documented registration profile"
+          ],
+          "features": [
+            {
+              "title": "Stand up SAM and SBA profiles the right way",
+              "description": "We guide and execute the full SAM and DSBS setup so your core registrations are accurate, active, and strategically positioned."
+            },
+            {
+              "title": "Choose NAICS and PSC codes that actually fit your business",
+              "description": "We research and recommend codes based on your real offerings and target agencies—not just generic lists."
+            },
+            {
+              "title": "Fix the hidden issues that stall registrations",
+              "description": "Address, email, and data mismatches can quietly trigger IRS and DLA rejections; we run a gap analysis and help you close those risks."
+            },
+            {
+              "title": "Align FEMA, PIEE, and other portals with your core profile",
+              "description": "For your sector, we identify and help configure the additional systems agencies actually use to award and manage work."
+            },
+            {
+              "title": "Stay consistent across every system that matters",
+              "description": "Names, addresses, narratives, and codes are harmonized so you don't send mixed signals to contracting officers or primes."
+            },
+            {
+              "title": "Get to UEI and CAGE Code without guesswork",
+              "description": "We support you through IRS validation and DLA review so you emerge fully identifiable and ready for award."
+            },
+            {
+              "title": "Walk away with a documented registration profile",
+              "description": "You receive a clear summary of your codes, systems, and renewal/maintenance requirements so you know exactly what you have and how to keep it current."
+            }
+          ],
+          "whenValuable": [
+            "You are entering the federal market and want to avoid costly registration mistakes",
+            "You have started SAM or SBA registrations but are stuck in validation or confused about errors",
+            "Your existing registrations were done piecemeal and you suspect they are misaligned or incomplete",
+            "You are preparing for a more deliberate push into agency outreach and need to be fully eligible and discoverable first",
+            "You want your leadership and BD team to have a clear, documented understanding of your federal registration footprint"
+          ],
+          "approach": "Kickoff and Data Collection. We clarify your business focus, target agencies, and existing registration status, then provide a structured checklist of data you must supply. Code Research and Gap Analysis. We research NAICS/PSC options and review your current data for issues that can cause IRS or DLA friction. Core Registrations. We guide and execute SAM and SBA/DSBS setup or remediation, aligning codes, narratives, and contact information. Additional Systems. Where relevant, we help configure FEMA, PIEE, or other sector‑specific portals so your presence is consistent. Validation Support and Handoff. We assist you through IRS and DLA validation steps and then provide a concise Registration Summary Pack and debrief.",
+          "investment": "For a single legal entity: Indicative investment: $10,000 (provisional anchor) per entity. Estimated effort: typically 16–25 professional hours, depending on existing registration complexity, number of relevant systems, and the amount of remediation required."
+        }
+      ]
+    }
+  ]
+}
